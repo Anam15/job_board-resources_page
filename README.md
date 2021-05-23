@@ -22,7 +22,6 @@ For the job board to work, follow the following steps:
 (5) Type in npm start
 <br/><br/>
 Note: The job board was created using Github Jobs API, and by following the following YouTube tutorial:
-<br/><br/>
 https://www.youtube.com/watch?v=fxY1q4SCB64&list=WL&index=110&t=470s
 
 
